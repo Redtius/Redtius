@@ -1,8 +1,8 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Web Applications<br>
 - 👯 I’m looking to collaborate on Desktop Application<br>
-- 🤝 I’m looking for help with Docker & Kubenetes<br>
-- 🌱 I’m currently learning Spring Boot<br>
+- 🤝 I’m looking for help with Spring Boot<br>
+- 🌱 I’m currently learning FireBase<br>
 - 💬 Ask me about anything<br>
 - ⚡ Fun fact, I'm a Music Producer
 
