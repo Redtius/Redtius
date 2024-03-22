@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Web Applications<br>
-- 👯 I’m looking to collaborate on Desktop Application<br>
+- 👯 I’m looking to collaborate on Microservices Applications<br>
 - 🤝 I’m looking for help with Spring Boot<br>
 - 🌱 I’m currently learning Angular<br>
 - 💬 Ask me about anything<br>
