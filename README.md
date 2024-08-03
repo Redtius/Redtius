@@ -1,8 +1,9 @@
+![](https://komarev.com/ghpvc/?username=redtius)
 # 💫 About Me:
-- 🔭 I’m currently working on Web Applications<br>
+- 🔭 I’m currently working on AI Projects<br>
 - 👯 I’m looking to collaborate on Microservices Applications<br>
-- 🤝 I’m looking for help with Spring Boot<br>
-- 🌱 I’m currently learning Angular<br>
+- 🤝 I’m looking for help with Transformers<br>
+- 🌱 I’m currently learning Deep Learning<br>
 - 💬 Ask me about anything<br>
 - ⚡ Fun fact, I'm a Music Producer
 
@@ -48,6 +49,4 @@
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Redtius&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=redtius)
 
