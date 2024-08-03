@@ -51,4 +51,4 @@
 
 ![](https://komarev.com/ghpvc/?username=redtius)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/redtius/redtius/blob/output/github-contribution-grid-snake.svg)
