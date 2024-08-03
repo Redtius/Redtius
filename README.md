@@ -45,8 +45,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="50" width="auto" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="50" width="auto"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="50" width="auto"/>
-          
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Redtius&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
